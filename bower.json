@@ -1,12 +1,12 @@
 {
-  "name": "omeclone",
+  "name": "chattingable",
   "description": "Clone of omegle.com",
   "main": "index.js",
   "authors": [
-    "Sumedh Nimkarde <blesssumedh@gmail.com>"
+    "lalit wagh <lalitwagh2002@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/wdlsvnit/Omeclone",
+  "homepage": "https://github.com/dark-player/chattingable",
   "private": true,
   "ignore": [
     "**/.*",
