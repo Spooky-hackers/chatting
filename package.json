@@ -1,5 +1,5 @@
 {
-  "name": "omeclone",
+  "name": "chattingable",
   "version": "1.0.0",
   "description": "Clone of omegle.com",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wdlsvnit/omeclone.git"
+    "url": "git+https://github.com/dark-player/chattingable.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wdlsvnit/omeclone/issues"
+    "url": "https://github.com/dark-player/chattingable/issues"
   },
-  "homepage": "https://github.com/wdlsvnit/omeclone#readme",
+  "homepage": "https://github.com/dark-player/chattingable#readme",
   "dependencies": {
     "bower": "^1.8.2",
     "express": "^4.16.2",
