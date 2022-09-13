@@ -1,6 +1,6 @@
-# Omeclone
+# Chattingable
 
-Omeclone is a platform where you can chat with strangers, make new friends. It's fun to chat with stranger. We took inspiration from omegle.com and tried to build this.
+Chattingable is a platform where you can chat with strangers, make new friends. It's fun to chat with stranger. We took inspiration from omegle.com and tried to build this. This website is enoded by lalit wagh
 
 ## Screenshots
 
@@ -32,7 +32,7 @@ You will need the following things properly installed on your computer.
 
 
 ## Deployment from master:
->   https://omeclone.herokuapp.com
+>   https://chattingable.herokuapp.com
 
 ## Join the development:
 
